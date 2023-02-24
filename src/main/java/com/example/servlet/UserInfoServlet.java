@@ -35,6 +35,8 @@ public class UserInfoServlet extends HttpServlet {
         }
 
 
+        System.out.println("github");
+
     }
 
     @Override
