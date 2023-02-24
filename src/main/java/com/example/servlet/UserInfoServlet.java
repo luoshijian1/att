@@ -36,6 +36,7 @@ public class UserInfoServlet extends HttpServlet {
 
 
         System.out.println("github");
+         System.out.println("github pull");
 
     }
 
